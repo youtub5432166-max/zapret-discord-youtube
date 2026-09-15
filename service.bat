@@ -77,7 +77,7 @@ echo      3. Check Status
 echo.
 echo   :: SETTINGS
 echo      4. Game Filter         [!GameFilterStatus!]
-echo      5. IPSet Filter        [!IPsetStatus!]
+echo      5. IPSet Filter        [!anyStatus!]
 echo      6. Auto-Update Check   [!CheckUpdatesStatus!]
 echo      7. Replace active fakes
 echo.
